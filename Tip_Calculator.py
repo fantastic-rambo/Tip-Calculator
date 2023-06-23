@@ -2,6 +2,7 @@
 #email: isaac.agbogah@azubiafrica.org
 #Member: Isaac Rambo
 
+print('Hello! I am Isaac Rambo')
 
 print('Welcome To the Asanka Hotel Tip Calculator')
 
