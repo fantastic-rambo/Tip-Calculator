@@ -1,5 +1,6 @@
 #Group 7 Cohort 4
 #email: isaac.agbogah@azubiafrica.org
+#Member: Isaac Rambo
 
 
 print('Welcome To the Asanka Hotel Tip Calculator')
